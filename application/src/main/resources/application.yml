@@ -1,0 +1,10 @@
+spring:
+  jackson:
+    time-zone: Europe/Madrid
+    date-format: "dd/MM/yyyy hh:mm:ss"
+
+telegram:
+  bot:
+    name: [BotName]
+    token: [BotToken]
+    admin: [AdminId]
